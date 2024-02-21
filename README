@@ -19,5 +19,22 @@ Task
 
 Document all the commands that you used this task and add to README file
 
+1.git clone https://github.com/amilmshaji/git-hackathon.git
+2.git branch second  
+3.touch filename1.txt 
+4.git add .
+5.git commit -m "push to second branch"
+6.git push --set-upstream origin second
+7.git checkout third    
+8.vi default.txt    
+9.git add default.txt
+10.git commit -m "in third branch"  
+11.git push origin
+12. git checkout main 
+13.git merge second      
+14.git commit -m "Merge second into main"
+15.git merge third
+
+
 
     
